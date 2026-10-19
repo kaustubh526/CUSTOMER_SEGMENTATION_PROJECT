@@ -1,0 +1,7 @@
+segment,customers,avg_recency_days,avg_frequency,avg_spend,total_revenue,revenue_share_pct
+Champions,419,27.2,15.4,30097.1,12610674.5,66.2
+Loyal Customers,292,84.4,7.6,11389.6,3325765.4,17.4
+Needs Attention,243,229.3,4.2,4909.8,1193079.9,6.3
+Lost,410,402.1,2.3,2656.7,1089252.0,5.7
+At Risk,50,250.2,8.1,11980.5,599027.4,3.1
+New / Promising,86,34.7,2.9,2831.8,243531.7,1.3
